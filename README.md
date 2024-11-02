@@ -13,10 +13,10 @@
 - Member 3: Lekshmi L - LBSITW
 
 ### Project Description
-[2-3 lines about what your project does]
+Calculates the amount of calories that you burn by taking your voice as input. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
