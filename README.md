@@ -1,16 +1,16 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [YAP-CO] 🎯
+# YAP-CO 🎯
 
 
 ## Basic Details
-### Team Name: [Brats]
+### Team Name: Brats
 
 
 ### Team Members
-- Team Lead: [Keerthana A R] - [LBSITW]
-- Member 2: [Leya Susan Riboy] - [LBSITW]
-- Member 3: [Lekshmi L] - [LBSITW]
+- Team Lead: Keerthana A R - LBSITW
+- Member 2: Leya Susan Riboy - LBSITW
+- Member 3: Lekshmi L - LBSITW
 
 ### Project Description
 [2-3 lines about what your project does]
