@@ -16,10 +16,10 @@
 Calculates the amount of calories that you burn by taking your voice as input. 
 
 ### The Problem (that doesn't exist)
-
+We need to lose weight but we won't exercise cuz we are lazy. When we look at our smartwatch, the calories burnt is zero as we aren't exercising. This is affecting our mental health in a negative way
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Developing smth which calculates the amount of calories that you burn by taking your voice as input cuz yapping is the only thing we do consistently lol. Just for a manasugam!
 
 ## Technical Details
 ### Technologies/Components Used
