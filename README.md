@@ -24,10 +24,9 @@ Calculates the amount of calories that you burn by taking your voice as input.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Tkinter, PyAudio, NumPy
+- Git, Tkinter's ttk module
 
 ### Implementation
 For Software:
