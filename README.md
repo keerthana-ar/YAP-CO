@@ -16,7 +16,7 @@
 Calculates the amount of calories that you burn by taking your voice as input. 
 
 ### The Problem (that doesn't exist)
-We need to lose weight but we won't exercise cuz we are lazy. When we look at our smartwatch, the calories burnt is zero as we aren't exercising. This is affecting our mental health in a negative way
+Sometimes, we wanna to lose weight but we won't exercise cuz we're lazy. When we look at our smartwatch, the calories burnt is zero as we aren't exercising. This is affecting our mental health in a negative way.
 
 ### The Solution (that nobody asked for)
 Developing smth which calculates the amount of calories that you burn by taking your voice as input cuz yapping is the only thing we do consistently lol. Just for a manasugam!
@@ -39,7 +39,7 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
@@ -49,22 +49,10 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+https://youtu.be/qZnveaY8-aQ
+The video demonstrates how this application works
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
