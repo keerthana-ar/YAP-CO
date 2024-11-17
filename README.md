@@ -40,14 +40,10 @@ For Software:
 For Software:
 
 # Screenshots
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2024-11-02 024739](https://github.com/user-attachments/assets/8a46d29b-e4be-43c5-8ca3-0dcf5df8b3e6)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Basic GUI of the project
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 ### Project Demo
 # Video
